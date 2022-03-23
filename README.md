@@ -9,10 +9,6 @@ This is a showcase of my code review skill.
 - HTML
 - CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://github.com/SiansandaTamara/code_review)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
